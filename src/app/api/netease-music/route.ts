@@ -1,10 +1,3 @@
-/*
- * @Author: 白雾茫茫丶<baiwumm.com>
- * @Date: 2024-05-14 14:13:34
- * @LastEditors: 白雾茫茫丶<baiwumm.com>
- * @LastEditTime: 2024-05-14 16:54:08
- * @Description: 网易云音乐-新歌榜
- */
 import { NextResponse } from 'next/server';
 
 import { REQUEST_STATUS_TEXT } from '@/utils/enum';

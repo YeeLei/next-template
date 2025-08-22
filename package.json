@@ -7,6 +7,7 @@
     "email": "ye15932847866@163.com"
   },
   "scripts": {
+    "prepare": "husky install",
     "dev": "next dev -p 6688",
     "build": "next build",
     "start": "next start",

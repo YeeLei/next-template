@@ -1,10 +1,3 @@
-/*
- * @Author: 白雾茫茫丶<baiwumm.com>
- * @Date: 2024-05-14 09:47:41
- * @LastEditors: 白雾茫茫丶<baiwumm.com>
- * @LastEditTime: 2024-05-14 16:51:07
- * @Description: 稀土掘金-热榜
- */
 import { NextResponse } from 'next/server';
 
 import { REQUEST_STATUS_TEXT } from '@/utils/enum';

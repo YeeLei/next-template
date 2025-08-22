@@ -1,10 +1,3 @@
-/*
- * @Author: 白雾茫茫丶<baiwumm.com>
- * @Date: 2024-05-11 14:37:26
- * @LastEditors: 白雾茫茫丶<baiwumm.com>
- * @LastEditTime: 2024-05-15 08:33:49
- * @Description: 微博-热搜榜
- */
 import { NextResponse } from 'next/server';
 
 import { REQUEST_STATUS_TEXT } from '@/utils/enum';

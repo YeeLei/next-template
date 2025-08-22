@@ -1,10 +1,3 @@
-/*
- * @Author: 白雾茫茫丶<baiwumm.com>
- * @Date: 2024-05-14 09:54:58
- * @LastEditors: 白雾茫茫丶<baiwumm.com>
- * @LastEditTime: 2024-05-14 16:52:48
- * @Description: 英雄联盟-更新公告
- */
 import { NextResponse } from 'next/server';
 
 import { REQUEST_STATUS_TEXT } from '@/utils/enum';

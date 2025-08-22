@@ -1,10 +1,3 @@
-/*
- * @Author: 白雾茫茫丶<baiwumm.com>
- * @Date: 2024-05-14 14:02:04
- * @LastEditors: 白雾茫茫丶<baiwumm.com>
- * @LastEditTime: 2024-05-14 16:51:36
- * @Description: 豆瓣电影-新片榜
- */
 import * as cheerio from 'cheerio';
 import { NextResponse } from 'next/server';
 
