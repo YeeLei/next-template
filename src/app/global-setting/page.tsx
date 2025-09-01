@@ -30,6 +30,10 @@ const GlobalSetting = () => {
     defaultValue: [],
   });
 
+  // 在服务器端请求 Java 后端接口示例
+  // const res = await fetch(`${API_BASE}/products`, { cache: 'no-store' });
+  // const products = await res.json();
+
   // Switch 回调
   const onChangeHotShow = (isSelected: boolean, config: HotListConfig) => {
     const { value, label, tip } = config;
@@ -67,6 +71,7 @@ const GlobalSetting = () => {
   if (!mounted) {
     return null;
   }
+
   return (
     <div className="px-12 py-5 lg:px-20">
       <Card>
